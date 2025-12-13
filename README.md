@@ -42,4 +42,5 @@ Collection of mini React components
 
 ## 🔗 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/asifa-siraj-7baa40272/) • Email: your.email@example.com
+[LinkedIn](https://www.linkedin.com/in/asifa-siraj-7baa40272/) • Email: as1615533@gmail.com
+
