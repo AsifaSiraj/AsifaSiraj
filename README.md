@@ -116,7 +116,7 @@ I'm always excited to collaborate on interesting projects or discuss web develop
 
 📧 **Email:** as1615533@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/asifa-siraj-7baa40272](https://www.linkedin.com/in/asifa-siraj-7baa40272/)  
-🌐 **Portfolio:** [Coming Soon]
+🌐 **Portfolio:** [asifa-siraj-portfolio-website-sand.vercel.app](asifa-siraj-portfolio-website-sand.vercel.app)  
 
 ---
 
