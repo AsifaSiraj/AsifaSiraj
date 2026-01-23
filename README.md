@@ -57,8 +57,6 @@ Results-driven Frontend Developer specializing in modern React.js applications w
 
 <div align="center">
 
-## 📊 GitHub Statistics
-
 <table>
   <tr>
     <td width="50%">
@@ -173,8 +171,7 @@ Results-driven Frontend Developer specializing in modern React.js applications w
 
 *"Great web experiences are built on the foundation of clean code, thoughtful design, and user-centric thinking."*
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AsifaSiraj)
-
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/asifasiraj)
 **⭐ Thank you for visiting my GitHub profile! ⭐**
 
 </div>
