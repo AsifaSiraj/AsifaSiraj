@@ -65,7 +65,7 @@ Results-driven Frontend Developer specializing in modern React.js applications w
       <img src="https://github-readme-stats.vercel.app/api?username=AsifaSiraj&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide=issues&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
     </td>
     <td width="50%">
-      <img src="![GitHub Streak](https://streak-stats.demolab.com/?user=AsifaSiraj&theme=radical&hide_border=true&fire=FF6B6B)" alt="GitHub Streak" />
+      <img src="![GitHub Streak]([https://streak-stats.demolab.com/?user=AsifaSiraj&theme=radical&hide_border=true&fire=FF6B6B)" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -80,8 +80,8 @@ Results-driven Frontend Developer specializing in modern React.js applications w
 
 </div>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AsifaSiraj&theme=radical&hide_border=true&fire=FF6B6B)
-[![GitHub Streak](https://streak-stats.demolab.com?user=AsifaSiraj)](https://git.io/streak-stats)
+([![GitHub Streak](https://streak-stats.demolab.com?user=AsifaSiraj)](https://git.io/streak-stats))
+
 
 <div align="center">
 
