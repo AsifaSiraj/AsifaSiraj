@@ -81,6 +81,7 @@ Results-driven Frontend Developer specializing in modern React.js applications w
 </div>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AsifaSiraj&theme=radical&hide_border=true&fire=FF6B6B)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AsifaSiraj)](https://git.io/streak-stats)
 
 <div align="center">
 
