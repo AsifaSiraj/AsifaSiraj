@@ -3,7 +3,7 @@
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://asifa-siraj-portfolio-website-sand.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asifa-siraj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asifa-siraj-7baa40272/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsifaSiraj)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:as1615533@gmail.com)
 
@@ -45,11 +45,8 @@ Results-driven Frontend Developer specializing in modern React.js applications w
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
 
-### **Testing & Deployment**
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/-Testing_Library-E33332?style=flat&logo=testinglibrary&logoColor=white)
+### **Deployment**
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
 ---
 
@@ -157,7 +154,7 @@ Results-driven Frontend Developer specializing in modern React.js applications w
 | Platform | Link |
 |----------|------|
 | **🌐 Portfolio** | [asifa-siraj-portfolio.vercel.app](https://asifa-siraj-portfolio-website-sand.vercel.app)  |
-| **💼 LinkedIn** | [linkedin.com/in/asifa-siraj](https://linkedin.com/in/asifa-siraj) |
+| **💼 LinkedIn** |  [linkedin.com/in/asifa-siraj](https://www.linkedin.com/in/asifa-siraj-7baa40272/)  |
 | **🐙 GitHub** | [github.com/AsifaSiraj](https://github.com/AsifaSiraj) |
 | **📧 Email** | [as1615533@gmail.com](mailto:as1615533@gmail.com) |
 
