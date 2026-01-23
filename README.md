@@ -65,7 +65,7 @@ Results-driven Frontend Developer specializing in modern React.js applications w
       <img src="https://github-readme-stats.vercel.app/api?username=AsifaSiraj&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide=issues&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsifaSiraj&theme=github-dark&hide_border=true&fire=DD2727&ring=DD2727&background=0D1117&dates=58A6FF&stroke=58A6FF" alt="GitHub Streak" />
+      <img src="![GitHub Streak](https://streak-stats.demolab.com/?user=AsifaSiraj&theme=radical&hide_border=true&fire=FF6B6B)" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -80,7 +80,17 @@ Results-driven Frontend Developer specializing in modern React.js applications w
 
 </div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsifaSiraj&layout=compact&theme=github_dark&hide_border=true&langs_count=8&exclude_repo=&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AsifaSiraj&theme=radical&hide_border=true&fire=FF6B6B)
+
+<div align="center">
+
+## 📊 Development Metrics
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AsifaSiraj&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AsifaSiraj&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
