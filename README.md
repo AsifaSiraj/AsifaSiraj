@@ -127,7 +127,6 @@ Dedicated Frontend Developer with expertise in building **modern, responsive web
 
 ### **Collaboration**
 - Strong communication skills
-- Agile/Scrum methodology experience
 - Code review participation
 - Continuous learning mindset
 
