@@ -53,45 +53,18 @@ Results-driven Frontend Developer specializing in modern React.js applications w
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
 ## 📊 GitHub Statistics
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=AsifaSiraj&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide=issues" />
-    </td>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsifaSiraj&theme=github_dark" />
-    </td>
-  </tr>
-</table>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsifaSiraj&show_icons=true&theme=github_dark&hide_border=true)
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AsifaSiraj&theme=github_dark" />
-    </td>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AsifaSiraj&theme=github_dark&utcOffset=5" />
-    </td>
-  </tr>
-</table>
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsifaSiraj&theme=github_dark)
 
-<table>
-  <tr>
-    <td width="100%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsifaSiraj&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-    </td>
-  </tr>
-</table>
+![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AsifaSiraj&theme=github_dark)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsifaSiraj&layout=compact&theme=github_dark)
 
-![Profile Views](https://komarev.com/ghpvc/?username=AsifaSiraj&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+
+
 
 
 ## 💼 Featured Projects
