@@ -57,16 +57,28 @@ Results-driven Frontend Developer specializing in modern React.js applications w
 
 <div align="center">
 
+## 📊 GitHub Statistics
+
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AsifaSiraj&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide=issues" alt="GitHub Stats" />
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=AsifaSiraj&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide=issues&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsifaSiraj&theme=github-dark&hide_border=true&fire=DD2727&ring=DD2727&background=0D1117" alt="GitHub Streak" />
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsifaSiraj&theme=github-dark&hide_border=true&fire=DD2727&ring=DD2727&background=0D1117&dates=58A6FF&stroke=58A6FF" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td width="100%" colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsifaSiraj&layout=compact&theme=github_dark&hide_border=true&langs_count=8&exclude_repo=&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsifaSiraj&layout=compact&theme=github_dark&hide_border=true&langs_count=8&exclude_repo=&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
