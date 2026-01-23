@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://asifa-siraj-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://asifa-siraj-portfolio-website-sand.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asifa-siraj)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsifaSiraj)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:as1615533@gmail.com)
@@ -79,13 +79,6 @@ Results-driven Frontend Developer specializing in modern React.js applications w
 </table>
 
 </div>
-
-![Profile Views](https://komarev.com/ghpvc/?username=AsifaSiraj&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
-
-
-
-
-
 
 ## 💼 Featured Projects
 
@@ -165,7 +158,7 @@ Results-driven Frontend Developer specializing in modern React.js applications w
 
 | Platform | Link |
 |----------|------|
-| **🌐 Portfolio** | [asifa-siraj-portfolio.vercel.app](https://asifa-siraj-portfolio.vercel.app) |
+| **🌐 Portfolio** | [asifa-siraj-portfolio.vercel.app](https://asifa-siraj-portfolio-website-sand.vercel.app)  |
 | **💼 LinkedIn** | [linkedin.com/in/asifa-siraj](https://linkedin.com/in/asifa-siraj) |
 | **🐙 GitHub** | [github.com/AsifaSiraj](https://github.com/AsifaSiraj) |
 | **📧 Email** | [as1615533@gmail.com](mailto:as1615533@gmail.com) |
@@ -180,7 +173,7 @@ Results-driven Frontend Developer specializing in modern React.js applications w
 
 *"Great web experiences are built on the foundation of clean code, thoughtful design, and user-centric thinking."*
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/asifasiraj)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AsifaSiraj)
 
 **⭐ Thank you for visiting my GitHub profile! ⭐**
 
