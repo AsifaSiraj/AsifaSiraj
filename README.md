@@ -62,41 +62,37 @@ Results-driven Frontend Developer specializing in modern React.js applications w
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=AsifaSiraj&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide=issues&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=AsifaSiraj&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide=issues" />
     </td>
     <td width="50%">
-      <img src="![GitHub Streak]([https://streak-stats.demolab.com/?user=AsifaSiraj&theme=radical&hide_border=true&fire=FF6B6B)" alt="GitHub Streak" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsifaSiraj&theme=github_dark" />
     </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td width="100%" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsifaSiraj&layout=compact&theme=github_dark&hide_border=true&langs_count=8&exclude_repo=&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AsifaSiraj&theme=github_dark" />
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AsifaSiraj&theme=github_dark&utcOffset=5" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="100%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsifaSiraj&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
     </td>
   </tr>
 </table>
 
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AsifaSiraj&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-<div align="center">
-
-## 📊 Development Metrics
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AsifaSiraj&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=AsifaSiraj&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
-</div>
-
----
 
 ## 💼 Featured Projects
 
