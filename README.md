@@ -13,7 +13,7 @@
 
 Results-driven Frontend Developer specializing in modern React.js applications with a strong focus on creating responsive, accessible, and performant user interfaces. Experienced in building scalable web applications using contemporary JavaScript ecosystems and passionate about clean code architecture and UI/UX best practices.
 
-**📍 Based in Pakistan** | **🎓 Computer Systems Engineering Student at NED University**
+**📍 Based in Pakistan** | **🎓 Computer Science and Information Technology Student at NED University of Enginnering and Technology**
 
 ---
 
