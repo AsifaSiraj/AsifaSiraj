@@ -68,7 +68,7 @@ Results-driven Frontend Developer specializing in modern React.js applications w
 <table>
   <tr>
     <td width="100%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifasiraj&layout=compact&theme=github_dark&hide_border=true&langs_count=8&v=1" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asifasiraj&theme=github_dark&v=1" />
     </td>
   </tr>
 </table>
