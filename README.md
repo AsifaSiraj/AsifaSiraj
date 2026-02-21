@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-ynzp-5xmazdxne-asifas-projects-d03e5335.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-ynzp-28b2ajzhw-asifas-projects-d03e5335.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asifa-siraj-7baa40272/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsifaSiraj)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:as1615533@gmail.com)
@@ -153,7 +153,7 @@ Results-driven Frontend Developer specializing in modern React.js applications w
 
 | Platform | Link |
 |----------|------|
-| **🌐 Portfolio** | [asifa-siraj-portfolio.vercel.app](https://portfolio-ynzp-5xmazdxne-asifas-projects-d03e5335.vercel.app)  |
+| **🌐 Portfolio** | [asifa-siraj-portfolio.vercel.app](https://portfolio-ynzp-28b2ajzhw-asifas-projects-d03e5335.vercel.app)  |
 | **💼 LinkedIn** |  [linkedin.com/in/asifa-siraj](https://www.linkedin.com/in/asifa-siraj-7baa40272/)  |
 | **🐙 GitHub** | [github.com/AsifaSiraj](https://github.com/AsifaSiraj) |
 | **📧 Email** | [as1615533@gmail.com](mailto:as1615533@gmail.com) |
