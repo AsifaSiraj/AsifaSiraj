@@ -50,31 +50,6 @@ Results-driven Frontend Developer specializing in modern React.js applications w
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AsifaSiraj&theme=github_dark" />
-    </td>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AsifaSiraj&theme=github_dark&utcOffset=5" />
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="100%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asifasiraj&theme=github_dark&v=1" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
 ## 💼 Featured Projects
 
 ### **[Modern Portfolio Website](https://asifa-siraj-portfolio.vercel.app)**
